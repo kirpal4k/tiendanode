@@ -31,4 +31,4 @@ const HabitacionModelo = Schema({
 
 })
 
-module.exports = model('Reservas', ReservaModelo)
+module.exports = model('Habitaciones', ReservaModelo)
