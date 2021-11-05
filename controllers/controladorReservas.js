@@ -25,7 +25,7 @@ function buscarReserva(peticion = request, respuesta = response) {
 
 }
 
-function buscarReserva(peticion = request, respuesta = response) {
+function buscarReservas(peticion = request, respuesta = response) {
 
     respuesta.json({
         mensaje: "estoy buscando todas las Reserva"

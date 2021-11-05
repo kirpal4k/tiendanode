@@ -3,6 +3,8 @@
 
 const { request, response } = require('express')
 
+
+
 //crear una funcion para cada operacion del servidor
 
 function registrarHabitacion(peticion = request, respuesta = response) {
